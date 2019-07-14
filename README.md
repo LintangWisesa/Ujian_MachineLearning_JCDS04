@@ -201,7 +201,7 @@ Dengan dataset tersebut, buatlah sebuah __aplikasi Flask__ berisi model machine 
 
         ![poke_3](./screenshot/e.png)
     
-4. Namun jika data tidak ditemukan atau tidak ada di dalam dataset, maka user akan di-redirect ke halaman __HTML__ yang memberikan informasi bahwa data tidak ditemukan. Halaman ini juga dilengkapi __1 buah button__ untuk kembali ke halaman awal. Desain tampilan HTML tidak harus sama seperti contoh soal, utamakan fitur!
+4. Namun jika data tidak ditemukan, tidak ada di dalam dataset atau user masuk ke url yang tidak tersedia, maka user akan di-redirect ke halaman __HTML__ yang memberikan informasi bahwa data tidak ditemukan, __error 404__. Halaman ini juga dilengkapi __1 buah button__ untuk kembali ke halaman awal. Desain tampilan HTML tidak harus sama seperti contoh soal, utamakan fitur!
 
     ![poke_4](https://raw.githubusercontent.com/LintangWisesa/Ujian_Fundamental_JCDS04/master/poke_4.png)
 
